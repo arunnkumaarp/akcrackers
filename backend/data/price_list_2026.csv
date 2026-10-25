@@ -1,0 +1,221 @@
+code,name,category,unit,mrp,offer_price
+1,2 3/4 Kuruvi,Single Sound Crackers,PKT,99.00,19.80
+2,3 1/2 Lakshmi,Single Sound Crackers,PKT,143.00,28.60
+3,3 1/2 Gold Lakshmi,Single Sound Crackers,PKT,220.00,44.00
+4,"4"" Lakshmi",Single Sound Crackers,PKT,176.00,35.20
+5,"4"" Deluxe Lakshmi",Single Sound Crackers,PKT,352.00,70.40
+6,"4"" Gold Lakshmi",Single Sound Crackers,PKT,352.00,70.40
+7,"6"" Lion King",Single Sound Crackers,PKT,913.00,182.60
+8,"6"" Lion Gun",Single Sound Crackers,PKT,968.00,193.60
+9,3 inch Joker,Single Sound Crackers,PKT,121.00,24.20
+10,2 Sound Crackers,Single Sound Crackers,PKT,352.00,70.40
+11,"4"" Hulk",Single Sound Crackers,PKT,330.00,66.00
+12,"5"" Bahubali",Single Sound Crackers,PKT,528.00,105.60
+13,"5"" Jallikattu",Single Sound Crackers,PKT,528.00,105.60
+14,"6"" Hulk",Single Sound Crackers,PKT,880.00,176.00
+15,Red Bijili 50 pcs,Bijili Crackers,PKT,176.00,35.20
+16,Red Bijili 100 pcs,Bijili Crackers,PKT,341.00,68.20
+17,Stripped Bijili 100 pcs,Bijili Crackers,PKT,385.00,77.00
+18,Stripped Bijili 50 pcs,Bijili Crackers,PKT,198.00,39.60
+19,Dino Thunder Mega Bombs,Bombs,Box,2200.00,440.00
+20,Bullet Bombs,Bombs,Box,550.00,110.00
+21,Classic Bombs,Bombs,Box,1595.00,319.00
+22,Hydro Bombs,Bombs,Box,858.00,171.60
+23,King Of King,Bombs,Box,1375.00,275.00
+24,1/4 Kg Paper Bombs,Bombs,Box,550.00,110.00
+25,1/2 Kg Paper Bombs,Bombs,Box,1100.00,220.00
+26,1 Kg Paper Bombs,Bombs,Box,2200.00,440.00
+27,Godzilla Bomb,Bombs,PKT,1584.00,316.80
+28,555 Bomb,Bombs,Box,1540.00,308.00
+29,Cylinder Bomb,Bombs,Box,1870.00,374.00
+30,Flower Pot Big,Flower Pot,Box,858.00,171.60
+31,Flower Pot Special,Flower Pot,Box,990.00,198.00
+32,Flower Pot Ashoka,Flower Pot,Box,1232.00,246.40
+33,Colour Koti,Flower Pot,Box,2420.00,484.00
+34,Miracle Pot,Flower Pot,Box,8800.00,1760.00
+35,RSR Colourkoti,Flower Pot,Box,2970.00,594.00
+36,Carnival Pot,Flower Pot,Box,3432.00,686.40
+37,Chakkar Special,Ground Chakkar,Box,1078.00,215.60
+38,Chakkar Deluxe,Ground Chakkar,Box,1727.00,345.40
+39,Chakkar Spinner Special,Ground Chakkar,Box,1760.00,352.00
+40,Chakkar Spinner Deluxe,Ground Chakkar,Box,2420.00,484.00
+41,Chakkar Spinner Super Deluxe,Ground Chakkar,Box,3014.00,602.80
+42,4 * 4 Wheel,Ground Chakkar,Box,2134.00,426.80
+43,Music Wheel,Ground Chakkar,Box,1540.00,308.00
+44,Chakkar Spinner Asoka,Ground Chakkar,Box,1122.00,224.40
+45,Nayagara Falls (3 Pcs),Pencil,Box,1524.60,304.92
+46,Smoke,Pencil,Box,2057.00,411.40
+47,Pop Corn Pencil (5 Pcs),Pencil,Box,2695.00,539.00
+48,4.5 Tin Beer,Multi Colour Fountains,Box,1040.60,208.12
+49,Hanuman Kadayutham,Multi Colour Fountains,Box,1760.00,352.00
+50,Siren (5 Pcs),Multi Colour Fountains,Box,1980.00,396.00
+51,Bada Peacock,Multi Colour Fountains,Box,5610.00,1122.00
+52,Peacock Small,Multi Colour Fountains,Box,2145.00,429.00
+53,Peacock Feather,Multi Colour Fountains,Box,1331.00,266.20
+54,Genie,Multi Colour Fountains,Box,2250.60,450.12
+55,Tri Colour Big RSR,Multi Colour Fountains,Box,3080.00,616.00
+56,Abirami Shower,Multi Colour Fountains,Box,572.00,114.40
+57,Money Tree,Multi Colour Fountains,Box,2468.40,493.68
+58,Money in Bank (3 Pcs),Multi Colour Fountains,Box,1760.00,352.00
+59,Sing Pop,Multi Colour Fountains,Box,1870.00,374.00
+60,Three Kings Fountain,Multi Colour Fountains,Box,2750.00,550.00
+61,Crackling Fountain 3 Pcs,Multi Colour Fountains,Box,3190.00,638.00
+62,Touch Me Falls,Multi Colour Fountains,Box,1925.00,385.00
+63,Electric Stone,Children Special,Box,96.80,19.36
+64,Kit Kat (Tim Tam),Children Special,Box,605.00,121.00
+65,Assorted Cartoon,Children Special,Box,330.00,66.00
+66,Helicopter,Children Special,Box,880.00,176.00
+67,Photoflash,Children Special,Box,750.20,150.04
+68,Roll Cap,Children Special,Box,715.00,143.00
+69,Rotating Sparkle,Children Special,Box,3190.00,638.00
+70,Wire Chakkar,Children Special,Box,2178.00,435.60
+71,Pappu Shower,Children Special,Box,1936.00,387.20
+72,Butterfly,Children Special,Box,990.00,198.00
+73,Top Guns,Children Special,Box,1980.00,396.00
+74,Bat Ball,Children Special,Box,2420.00,484.00
+75,Bambaram,Children Special,Box,1540.00,308.00
+76,Dora Singer,Children Special,PKT,2178.00,435.60
+77,Guitar Sparkles,Children Special,Box,2255.00,451.00
+78,Kattappa Sword,Children Special,Box,2255.00,451.00
+79,I Cone,Children Special,Box,2310.00,462.00
+80,Mega Siren,Children Special,Box,2156.00,431.20
+81,Lunic Rockets,Rockets,Box,1355.20,271.04
+82,2 Sound Rocket,Rockets,Box,1414.60,282.92
+83,Whizzling Rocket,Rockets,Box,2090.00,418.00
+84,Rocket Bomb,Rockets,Box,981.20,196.24
+85,Max 3 in 1 Cone,Match Box,Box,495.00,99.00
+86,King Deluxe 6 in 1,Match Box,Box,858.00,171.60
+87,VIP 10 in 1,Match Box,Box,2838.00,567.60
+88,1 1/2 Twinkling Star,Twinkling Star,Box,264.00,52.80
+89,4 Twinkling Star,Twinkling Star,Box,833.80,166.76
+90,7 Colour Shot,Magic Pipes,Box,1430.00,286.00
+91,Nano Shot,Magic Pipes,Box,1320.00,264.00
+92,Up Shot,Magic Pipes,Box,1760.00,352.00
+93,1 inch Chotta Fancy,Magic Pipes,Box,462.00,92.40
+94,2 inch Pipe Shot (3 Pcs) (Code 94),Magic Pipes,Box,3025.00,605.00
+95,2 inch Pipe Shot (3 Pcs) (Code 95),Magic Pipes,Box,3245.00,649.00
+96,2 inch Pipe Shot Crackling (3 Pcs),Magic Pipes,Box,3740.00,748.00
+97,2 1/2 inch Pipe Shot,Magic Pipes,Box,1771.00,354.20
+98,3 1/2 inch Pipe Shot,Magic Pipes,Box,3630.00,726.00
+99,3 1/2 inch Pipe Shot Double Ball,Magic Pipes,Box,5060.00,1012.00
+100,3 1/2 inch Pipe Shot (2 Pcs),Magic Pipes,Box,8745.00,1749.00
+101,4 inch Pipe Shot,Magic Pipes,Box,5170.00,1034.00
+102,4 inch Pipe Shot (2 Pcs),Magic Pipes,Box,10340.00,2068.00
+103,3 inch Pipe Shot RSR (1 Box),Magic Pipes,Box,3740.00,748.00
+104,7up Shot (10 Pcs),Magic Pipes,PKT,2750.00,550.00
+105,Maruti Red Six,Magic Pipes,PKT,2255.00,451.00
+106,Maruti G-Green,Magic Pipes,PKT,2255.00,451.00
+107,5 Mega Shot RSR,Magic Pipes,Box,7700.00,1540.00
+108,2 inch Pipe,Magic Pipes,Box,1265.00,253.00
+109,Be Lights,Magic Pipes,Box,2200.00,440.00
+110,Split,Magic Pipes,Box,2200.00,440.00
+111,Mr. Happy,Magic Pipes,Box,2200.00,440.00
+112,Pink Hide & Shot,Magic Pipes,Box,2596.00,519.20
+113,Pink Shower & Shot,Magic Pipes,Box,2596.00,519.20
+114,3 1/2 Pipe Shot RSR,Magic Pipes,Box,3740.00,748.00
+115,4 Pipe Shot Double Ball,Magic Pipes,Box,5390.00,1078.00
+116,4 Pipe Shot Seven Steps,Magic Pipes,Box,5445.00,1089.00
+117,12 Shot Rider Crackling,Multi Colour Shots,Box,1320.00,264.00
+118,30 Shot Multi Colour AK,Multi Colour Shots,Box,4950.00,990.00
+119,60 Shot Multi Colour AK,Multi Colour Shots,Box,9900.00,1980.00
+120,120 Shot Multi Colour AK,Multi Colour Shots,Box,20240.00,4048.00
+121,240 Shot Multi Colour AK,Multi Colour Shots,Box,39600.00,7920.00
+122,30 Shot Multi Colour Fighters,Multi Colour Shots,Box,4730.00,946.00
+123,60 Shot Multi Colour Fighters,Multi Colour Shots,Box,9460.00,1892.00
+124,120 Shot Multi Colour Fighters,Multi Colour Shots,Box,18920.00,3784.00
+125,240 Shot Multi Colour Fighters,Multi Colour Shots,Box,37840.00,7568.00
+126,10cm Electric Sparklers,10cm Sparklers,Box,209.00,41.80
+127,10cm Colour Sparklers,10cm Sparklers,Box,264.00,52.80
+128,10cm Green Sparklers,10cm Sparklers,Box,385.00,77.00
+129,10cm Red Sparklers,10cm Sparklers,Box,363.00,72.60
+130,12cm Electric Sparklers,12cm Sparklers,Box,308.00,61.60
+131,12cm Green Sparklers,12cm Sparklers,Box,330.00,66.00
+132,12cm Red Sparklers,12cm Sparklers,Box,462.00,92.40
+133,12cm Colour Sparklers,12cm Sparklers,Box,363.00,72.60
+134,15cm Electric Sparklers,15cm Sparklers,Box,484.00,96.80
+135,15cm Colour Sparklers,15cm Sparklers,Box,528.00,105.60
+136,15cm Green Sparklers,15cm Sparklers,Box,561.00,112.20
+137,15cm Red Sparklers,15cm Sparklers,Box,627.00,125.40
+138,30cm Electric Sparklers,30cm Sparklers,Box,561.00,112.20
+139,30cm Colour Sparklers,30cm Sparklers,Box,528.00,105.60
+140,30cm Green Sparklers,30cm Sparklers,Box,561.00,112.20
+141,30cm Red Sparklers,30cm Sparklers,Box,627.00,125.40
+142,50cm Electric Sparklers,50cm Sparklers,Box,2552.00,510.40
+143,50cm Colour Sparklers,50cm Sparklers,Box,2772.00,554.40
+144,28 Boys,Speed Burst,Box,275.00,55.00
+145,100 Killer,Speed Burst,Box,451.00,90.20
+146,200 Killer,Speed Burst,Box,902.00,180.40
+147,1000 Princes,Speed Burst,Box,1936.00,387.20
+148,2000 Princes,Speed Burst,Box,3872.00,774.40
+149,5000 Queen,Speed Burst,Box,9680.00,1936.00
+150,10000 King,Speed Burst,Box,19360.00,3872.00
+151,24 Deluxe,Speed Burst,PKT,715.00,143.00
+152,56 Giant,Speed Burst,PKT,550.00,110.00
+153,1000 Super Princes,Special Speed Burst,Box,3872.00,774.40
+154,2000 Super Princes,Special Speed Burst,Box,7744.00,1548.80
+155,5000 Super Queen,Special Speed Burst,Box,19360.00,3872.00
+156,10000 Super King,Special Speed Burst,Box,38720.00,7744.00
+157,26 Items,Gift Boxes,Box,1056.00,211.20
+158,32 Items,Gift Boxes,Box,1342.00,268.40
+159,36 Items,Gift Boxes,Box,1496.00,299.20
+160,40 Items,Gift Boxes,Box,1782.00,356.40
+161,50 Items,Gift Boxes,Box,11550.00,2310.00
+162,VIP Box,Gift Boxes,Box,3300.00,660.00
+163,Kohinoor Gift Box,Gift Boxes,Box,33000.00,6600.00
+164,72 Item Gift Box,Gift Boxes,Box,14300.00,2860.00
+165,30 Item Gift Box,Gift Boxes,Box,4400.00,880.00
+166,55 Item Gift Box,Gift Boxes,Box,13200.00,2640.00
+167,3500 Family Pack,Family Pack,Box,38500.00,7700.00
+168,5500 Family Pack,Family Pack,Box,60500.00,12100.00
+169,Wonder Pop and Siren,Toys Special,Box,2992.00,598.40
+170,Thunder Pop and Siren,Toys Special,Box,2992.00,598.40
+171,Splendor Pop and Siren,Toys Special,Box,2992.00,598.40
+172,Thriller Pop and Siren,Toys Special,Box,2992.00,598.40
+173,Carnival Pot (Toys),Toys Special,Box,3432.00,686.40
+174,Tornado Chakkar,Toys Special,Box,1540.00,308.00
+175,Angry Birds,Toys Special,Box,3300.00,660.00
+176,Kinder Joy,Toys Special,Box,4290.00,858.00
+177,Chakkar Celebration,Toys Special,Box,4356.00,871.20
+178,Avengers,Toys Special,Box,4114.00,822.80
+179,Top 5 Chess,Toys Special,Box,5874.00,1174.80
+180,5G,Toys Special,Box,1870.00,374.00
+181,Chocolate Chakkar 4 in 1,Toys Special,Box,2112.00,422.40
+182,Raju & Jagu,Toys Special,Box,2112.00,422.40
+183,Chhota Beem & Chutki,Toys Special,Box,2112.00,422.40
+184,Kalia & Dholu Bholu,Toys Special,Box,2112.00,422.40
+185,Smart Candle 1 Pcs,Toys Special,Box,440.00,88.00
+186,Smart Candle 5 Pcs,Toys Special,Box,1980.00,396.00
+187,Queen Candle 1 Pcs,Toys Special,Box,440.00,88.00
+188,Queen Candle 5 Pcs,Toys Special,Box,1980.00,396.00
+189,King Candle 1 Pcs,Toys Special,Box,418.00,83.60
+190,King Candle 5 Pcs,Toys Special,Box,1936.00,387.20
+191,Siren Candle 1 Pcs,Toys Special,Box,1122.00,224.40
+192,Shark 1 Pcs,Toys Special,Box,1166.00,233.20
+193,Shark 2 Pcs,Toys Special,Box,2244.00,448.80
+194,Sea Horse 1 Pcs,Toys Special,Box,1320.00,264.00
+195,Sea Horse 2 Pcs,Toys Special,Box,2596.00,519.20
+196,Crocodile 1 Pcs,Toys Special,Box,1166.00,233.20
+197,Crocodile 2 Pcs,Toys Special,Box,2244.00,448.80
+198,USA 1 Pcs,Toys Special,Box,8591.00,1718.20
+199,Animal Shower,Toys Special,Box,2772.00,554.40
+200,Pogo Shower,Toys Special,Box,2772.00,554.40
+201,Hip Hop 1 Pcs,Toys Special,Box,506.00,101.20
+202,Hip Hop 5 Pcs,Toys Special,Box,2486.00,497.20
+203,Wow 1 Pcs,Toys Special,Box,660.00,132.00
+204,Wow 5 Pcs,Toys Special,Box,3256.00,651.20
+205,Falls 1 Pcs,Toys Special,Box,594.00,118.80
+206,Falls 5 Pcs,Toys Special,Box,2904.00,580.80
+207,Tom & Jerry 1 Pcs,Toys Special,Box,660.00,132.00
+208,Tom & Jerry 5 Pcs,Toys Special,Box,3256.00,651.20
+209,Hi-Coo 1 Pcs,Toys Special,Box,418.00,83.60
+210,Hi-Coo 5 Pcs,Toys Special,Box,2046.00,409.20
+211,Fun 1 Pcs,Toys Special,Box,462.00,92.40
+212,Fun 5 Pcs,Toys Special,Box,2266.00,453.20
+213,Spark,Toys Special,Box,2587.20,517.44
+214,Talking Tom,Toys Special,Box,5720.00,1144.00
+215,Clash Of Clans,Toys Special,Box,5720.00,1144.00
+216,Subway Surfers,Toys Special,Box,5720.00,1144.00
+217,Temple Run,Toys Special,Box,5720.00,1144.00
+218,Nemo,Toys Special,Box,8800.00,1760.00
+219,Purpy Sky,Toys Special,Box,3850.00,770.00
+220,Pink BTS Army,Toys Special,Box,1386.00,277.20

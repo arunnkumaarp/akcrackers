@@ -1,0 +1,30 @@
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_DB: akcrackers
+      POSTGRES_USER: ak
+      POSTGRES_PASSWORD: ak
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    ports:
+      - "5434:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ak"]
+      interval: 3s
+      retries: 10
+
+  backend:
+    build: ./backend
+    command: python manage.py runserver 0.0.0.0:8000
+    env_file: ./backend/.env
+    volumes:
+      - ./backend:/app
+    ports:
+      - "8002:8000"
+    depends_on:
+      db:
+        condition: service_healthy
+
+volumes:
+  pgdata:
